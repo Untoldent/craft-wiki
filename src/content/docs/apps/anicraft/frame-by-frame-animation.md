@@ -1,9 +1,9 @@
 ---
 title: Frame-by-Frame Animation
 description: Learn how to create frame-by-frame animation.
-parent: workflows
+parent: animating
 sidebar:
-  order: 8
+  order: 2
 prev:
   link: /apps/anicraft/keyframe-animation/
   label: "Keyframe Animation"

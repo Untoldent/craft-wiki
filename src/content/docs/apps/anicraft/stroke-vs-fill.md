@@ -1,9 +1,9 @@
 ---
 title: Stroke vs Fill
 description: Understanding the two key components of a vector shape
-parent: workflows
+parent: drawing
 sidebar:
-  order: 2
+  order: 1
 prev:
   link: /apps/anicraft/what-is-vector-art/
   label: "What is Vector Art?"

@@ -1,9 +1,9 @@
 ---
 title: Combining and Cutting Shapes
 description: Learn how AniCraft uses automatic boolean operations to sculpt shapes.
-parent: workflows
+parent: drawing
 sidebar:
-  order: 3
+  order: 2
 prev:
   link: /apps/anicraft/stroke-vs-fill/
   label: "Stroke vs. Fill"

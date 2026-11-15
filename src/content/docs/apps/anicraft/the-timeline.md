@@ -1,9 +1,9 @@
 ---
 title: The Timeline
 description: Learn the basics of the timeline
-parent: workflows
+parent: animating
 sidebar:
-  order: 6
+  order: 0
 prev:
   link: /apps/anicraft/animating/
   label: "Animating"

@@ -1,9 +1,8 @@
 ---
 title: Drawing
 description: Understand AniCraft's unique approach to vector drawing
-parent: workflows
 sidebar:
-  order: 0
+  order: 4
 prev:
   link: /apps/anicraft/anicraft-a-beginner-s-guide/
   label: "AniCraft: A Beginner's Guide"

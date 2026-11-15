@@ -1,9 +1,9 @@
 ---
 title: Keyframe Animation
 description: Learn the basics of keyframe animation and interpolation
-parent: workflows
+parent: animating
 sidebar:
-  order: 7
+  order: 1
 prev:
   link: /apps/anicraft/the-timeline/
   label: "The Timeline"

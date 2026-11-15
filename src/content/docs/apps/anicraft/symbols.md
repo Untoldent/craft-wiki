@@ -1,9 +1,9 @@
 ---
 title: Symbols
 description: Understanding the basics of Symbols in AniCraft.
-parent: workflows
+parent: drawing
 sidebar:
-  order: 4
+  order: 3
 prev:
   link: /apps/anicraft/combining-and-cutting-shapes/
   label: "Combining and Cutting Shapes"

@@ -1,9 +1,9 @@
 ---
 title: What is vector art?
 description: Understand the difference between vector and raster art
-parent: workflows
+parent: drawing
 sidebar:
-  order: 1
+  order: 0
 prev:
   link: /apps/anicraft/drawing/
   label: "Drawing"
