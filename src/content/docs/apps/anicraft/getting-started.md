@@ -3,6 +3,9 @@ title: Getting started
 description: Install AniCraft, draw vector artwork on the stage, create keyframes and tweens, and export your animation.
 sidebar:
   order: 1
+next:
+  link: /apps/anicraft/anicraft-a-beginner-s-guide/
+  label: "AniCraft: A Beginner's Guide"
 ---
 
 ## 1. Install AniCraft
@@ -55,6 +58,7 @@ Choose **File › Export › Export Animated GIF...** or **File › Export › E
 
 ## What's next
 
+- [AniCraft: A Beginner's Guide](/apps/anicraft/anicraft-a-beginner-s-guide/): learn the basics of the software in short, step-by-step tutorials
 - [Workflows](/apps/anicraft/workflows/): master tools, symbols, and nested timelines.
 - [AI agents](/apps/anicraft/ai-agents/): automate drawing and exporting with AI assistants.
 - [Troubleshooting](/apps/anicraft/troubleshooting/): solve startup, performance, and playback issues.
